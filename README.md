@@ -1,7 +1,7 @@
 # GAIH Student Repo Example
 ![](img/logo.png)
 
-**Course Date:** 13.10.2000  
+**Course Date:** 15.02.2021  
 **Name:** Recep Behlul  
 **Surname:** Eroglu  
 **Email:** recepbehlulbs@gmail.com  
